@@ -1,8 +1,8 @@
 # Zit
 
-[![Build Status](https://travis-ci.org/inxilpro/Zit.svg)](https://travis-ci.org/inxilpro/Zit)
-[![Packagist Version](https://img.shields.io/packagist/v/inxilpro/zit.svg)](https://packagist.org/packages/inxilpro/zit)
-[![GitHub Stars](https://img.shields.io/github/stars/inxilpro/Zit.svg)](https://github.com/inxilpro/Zit/stargazers)
+[![Build Status](https://travis-ci.org/syberisle/Zit.svg)](https://travis-ci.org/syberisle/Zit)
+[![Packagist Version](https://img.shields.io/packagist/v/syberisle/zit.svg)](https://packagist.org/packages/syberisle/zit)
+[![GitHub Stars](https://img.shields.io/github/stars/syberisle/Zit.svg)](https://github.com/syberisle/Zit/stargazers)
 [![PHP 5.4+](https://img.shields.io/badge/php-%3E%3D5.4-yellowgreen.svg)](https://secure.php.net/releases/5_4_0.php)
 
 Zit is a simple dependency injector based heavily on Pimple.  It aims to provide the same simplicity as Pimple while offering a slightly more robust object interface.
@@ -12,7 +12,7 @@ Zit is a simple dependency injector based heavily on Pimple.  It aims to provide
 Zit is available via Composer:
 
 ```bash
-composer require inxilpro/zit
+composer require syberisle/zit
 ```
 
 ## Usage

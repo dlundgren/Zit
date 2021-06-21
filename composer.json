@@ -1,7 +1,6 @@
 {
   "name": "syberisle/zit",
   "description": "Zit is a simple dependency injector based heavily on Pimple. It aims to provide the same simplicity as Pimple while offering a slightly more robust object interface.",
-  "version": "3.0.0",
   "type": "library",
   "keywords": [
     "dependency injection",
@@ -31,10 +30,7 @@
     "php": ">=5.4.0",
     "container-interop/container-interop": "^1.1"
   },
-  "repositories": [
-    {
-      "type": "vcs",
-      "url": "https://github.com/syberisle/Zit"
-    }
-  ]
+  "replace": {
+    "inxilpro/zit": ">=3.0.0"
+  }
 }
